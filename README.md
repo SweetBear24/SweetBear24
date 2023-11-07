@@ -3,6 +3,7 @@ Hi 👋 My name is SweetBear
 
 C/C++ and Python developer
 ------------------------
+Graduated from college, currently studying at university
 
 * I'm learning C++ and Python
 
