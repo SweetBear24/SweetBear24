@@ -1,7 +1,7 @@
 Hi 👋 My name is SweetBear
 ==========================
 
-C++ and Python developer
+C/C++ and Python developer
 ------------------------
 
 * I'm learning C++ and Python
